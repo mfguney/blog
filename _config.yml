@@ -4,7 +4,7 @@ email: mfguney@gmail.com
 description: > 
   This blog share short notes for electronics and Embedded software.
 theme: minima
-linkedin_username: [Linkedin]({% link https://www.linkedin.com/in/m-fatih-g%C3%BCney-63399739/ %}) 
-github_username:  [Github]({% link https://github.com/mfguney %}) 
+linkedin_username: https://www.linkedin.com/in/m-fatih-g%C3%BCney-63399739/
+github_username:  https://github.com/mfguney 
 
 show_excerpts: true

@@ -2,9 +2,7 @@ title: M. Fatih's Blog
 author: mfguney
 email: mfguney@gmail.com
 description: > 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog share short notes for electronics and Embedded software.
 theme: minima
 linkedin_username: [Linkedin]({% link https://www.linkedin.com/in/m-fatih-g%C3%BCney-63399739/ %}) 
 github_username:  [Github]({% link https://github.com/mfguney %}) 
